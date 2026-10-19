@@ -1,6 +1,6 @@
 # WaitWise - Queue Management System
 
-#### Video Demo: https://youtu.be/tZXgllPmU
+
 
 ## Description
 
