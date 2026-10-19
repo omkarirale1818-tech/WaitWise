@@ -1,0 +1,34 @@
+[
+    {
+        "token": 1,
+        "name": "jack",
+        "service": "pasta",
+        "date": "2026-10-18T16:02:01.223144",
+        "status": "served",
+        "service_time": 1.26,
+        "served_time": "2026-10-18T16:04:10.319443"
+    },
+    {
+        "token": 2,
+        "name": "tom",
+        "service": "curry rice",
+        "date": "2026-10-18T16:02:14.323919",
+        "status": "served",
+        "service_time": 1.53,
+        "served_time": "2026-10-18T16:05:48.018759"
+    },
+    {
+        "token": 3,
+        "name": "shiv",
+        "service": "butter chicken",
+        "date": "2026-10-18T16:02:34.641169",
+        "status": "waiting"
+    },
+    {
+        "token": 4,
+        "name": "tony",
+        "service": "ice cream",
+        "date": "2026-10-18T16:02:48.161051",
+        "status": "waiting"
+    }
+]
